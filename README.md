@@ -1,0 +1,2 @@
+# lo
+git init
